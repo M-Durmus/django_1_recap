@@ -71,7 +71,7 @@ cover/
 
 # Translations
 *.mo
-
+.DS_Store
 # Django stuff:
 
 # Flask stuff:
